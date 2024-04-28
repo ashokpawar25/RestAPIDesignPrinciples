@@ -1,4 +1,4 @@
-# Rest API Design Principles
+# Rest API Design Practices
 Following are some REST API Design practices which we should follow .
 
 ## Good Practices
